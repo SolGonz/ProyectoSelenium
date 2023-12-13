@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-10T18:13:51 CLST" name="Default suite" finished-at="2023-12-10T18:13:51 CLST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2023-12-10T18:13:51 CLST" name="Default test" finished-at="2023-12-10T18:13:51 CLST" duration-ms="77">
+      <class name="pruebas.Laboratorio5_E2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.Laboratorio5_E2@40005471]" started-at="2023-12-10T18:13:47 CLST" name="setUp" finished-at="2023-12-10T18:13:51 CLST" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cargarArchivo()[pri:0, instance:pruebas.Laboratorio5_E2@40005471]" started-at="2023-12-10T18:13:51 CLST" name="cargarArchivo" finished-at="2023-12-10T18:13:51 CLST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cargarArchivo -->
+        <test-method is-config="true" signature="finSuite()[pri:0, instance:pruebas.Laboratorio5_E2@40005471]" started-at="2023-12-10T18:13:51 CLST" name="finSuite" finished-at="2023-12-10T18:13:51 CLST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finSuite -->
+      </class> <!-- pruebas.Laboratorio5_E2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
